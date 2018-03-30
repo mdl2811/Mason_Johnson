@@ -29,7 +29,7 @@ gem 'frontend-generators'
 
 gem 'jquery-rails'
 
-gem 'omniauth-facebook'
+gem 'owlcarousel-rails'
 
 group :development, :test do
   gem 'pry'
