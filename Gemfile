@@ -32,6 +32,8 @@ gem 'jquery-rails'
 
 gem 'owlcarousel-rails'
 
+gem 'rails_serve_static_assets'
+
 group :development, :test do
   gem 'pry'
   # Adds support for Capybara system testing and selenium driver
