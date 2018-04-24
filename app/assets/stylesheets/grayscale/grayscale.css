@@ -413,3 +413,5 @@ body {
 .rating input[type="radio"]:checked + span ~ span {
     background-position:0 0;
 }
+
+.top-buffer { margin-top:20px; }
